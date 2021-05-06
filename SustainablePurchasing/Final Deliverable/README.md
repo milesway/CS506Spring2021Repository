@@ -1,6 +1,6 @@
 # Final Project Deliverable
 
-Here is [ipython notebook](./Analysis_Code.ipynb) for running all our codes for anlysis in one shot and a [pdf for the code](./Analysis_Code.pdf) if interested.
+Here is [ipython notebook](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/Analysis_Code.ipynb) for running all our codes for anlysis in one shot and a [pdf for the code](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/Analysis_Code.pdf) if interested.
 
 ## Project Description
 
