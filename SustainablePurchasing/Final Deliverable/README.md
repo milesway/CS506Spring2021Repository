@@ -82,7 +82,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 1. Refine Analysis - We added two charts for the total waste volume of each material included in a K-cup and a creamer cup.
 
-![](./image/k-cup&creamer-components-distribution.png)
+![k-cup&creamer-components-distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/k-cup%26creamer-components-distribution.png)
 
 2. Coffee Data Research - We collected standard specification of each top 10 ground coffee, top 10 coffee creamer and top 10 K-Cup products, such as weight, packing material, packs number. Then we search the rough data of carbon emission of packing (polypropylene, cardbox, or carton), coffee, creamer, etc.
 
@@ -96,13 +96,13 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
  **a. Carbon emission estimates for top 10 frequently-requested K-Cups (2016-2020)**
  
- ![top-10-k-cup-carbon-emission-v2](../Deliverable%203/image/top-10-k-cup-carbon-emission-v2.png)
+ ![top-10-k-cup-carbon-emission-v2](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/top-10-k-cup-carbon-emission-v2.png)
  
  - We get the top-10 K-Cup requested by the university from 2016-2020. We found all K-cup coffee products are supplied from Keurig Company. 
  - From [Keurig Dr Pepper’s sustainability report 2019](https://www.keurigdrpepper.com/content/dam/keurig-brand-sites/kdp/files/KDP-CR-Report-2019.pdf), we found that all K-cups are made of around 87% Polypropylene(PP) with 1 g of PP producing 1.886g of carbon emissions.
  - From the product description, we investigated that the weight of a K-cup (g) is 14g. Using this information, we calculated that the carbon emissions of a K-Cup is 26.4g.
  
- ![top-10-k-cup-carbon-emission-distribution](../Deliverable%203/image/top-10-k-cup-carbon-emission-distribution.png)
+ ![top-10-k-cup-carbon-emission-distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/top-10-k-cup-carbon-emission-distribution.png)
 
  **b. Carbon emission estimates for top 10 frequently-requested ground coffee (2016-2020)**
 
@@ -111,11 +111,11 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
  - We computed the carbon emission of this packing bag is 1.886g CO2.
  - Finally we add these two measurements together to obtain an estimate of carbon emission for producing each ground coffee product.
 
- ![](../Deliverable%203/image/top-10-ground-coffee-carbon-emission.png)
+ ![top-10-ground-coffee-carbon-emission](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/top-10-ground-coffee-carbon-emission.png)
  
  - By collecting carbon emissions of producing the packing materials(eg. plastic bag) and coffee itself, we compute the carbon emission of top 10 consumed ground coffee is about *233.52616 kg* carbon dioxide for 2016-2020.
  - Here is the distribution for carbon emission of different products:
- ![](../Deliverable%203/image/top-10-ground-coffee-carbon-emission-distribution.png)
+ ![top-10-ground-coffee-carbon-emission-distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/top-10-ground-coffee-carbon-emission-distribution.png)
  
  **c. Carbon emission estimates for top 10 frequently-requested coffee creamer (2016-2020)**
 
@@ -125,22 +125,22 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
   
    - Finally we summed up the carbon emission for packing and coffee creamer to obtain the total carbon emission there.
   
-   ![top-10-coffee-creamer-carbon-emission](./image/top-10-coffee-creamer-carbon-emission_v2.png)
+   ![top-10-coffee-creamer-carbon-emission](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/top-10-coffee-creamer-carbon-emission_v2.png)
   
    - By collecting carbon emission of producing the packing materials(eg. carton or cardboard box), and cup of the creamer, we compute the carbon emission of the top 10 consumed coffee creamer is about 12565kg carbon dioxide.
     
    - Here is the distribution for carbon emission of different products:
-   ![top-10-coffee-creamer-carbon-emission-distribution](./image/top-10-coffee-creamer-carbon-emission-distribution_v2.png)
+   ![top-10-coffee-creamer-carbon-emission-distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/top-10-coffee-creamer-carbon-emission-distribution_v2.png)
   
  **d. Carbon emission estimate for top 10 frequently-requested hot cups (2016-2020)**
  
    - For hot-cups, we first find the data of the carbon emission for the cup of 12ounce on [a open-source website](https://www.huhtamaki.com/en/highlights/sustainability/taking-a-closer-look-at-the-carbon-footprint-of-paper-cups-for-coffee/). However, it is really difficult to find a reliable source of the 8oz and 16oz.
     - Because they are made from the same model of the same company with different sizes, we find the weight ratio between 8oz, 12oz and 16 oz. According to the ratio, we calculate the carbon emission for hot cups.
     - According to the ground coffee part, we add the packing waste and calculate the total carbon emission for each specific category.
-    ![top-10-ground-hot-cups-emission](./image/top-10-ground-hot-cups-emission.png)
+    ![top-10-ground-hot-cups-emission](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/top-10-ground-hot-cups-emission.png)
     
    - Here is the distribution for carbon emission of different products:
-    ![top-10-ground-hot-cups-emission-distribution](./image/top-10-ground-hot-cups-emission-distribution.png)
+    ![top-10-ground-hot-cups-emission-distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/top-10-ground-hot-cups-emission-distribution.png)
     
  **e. Weight estimate for top 10 frequently-requested int cartridges(2016-2020)**
  
@@ -148,7 +148,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
     - Then we found that the density of ink = 1.6g/ml (standard). Using this information, we estimate the weight of each carbon cartridge using the formula: Weight of ink cartridge = total weight of the produce - ink size * ink's density.
     - However, since the composition of ink cartridges is so complicated that it’s hard to find the carbon emissions of each part of it, we failed to calculate the carbon emissions for the ink cartridge.
     
-   ![top_10_waste_volume_toners](./image/top_10_waste_volume_toners.png)
+   ![top_10_waste_volume_toners](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/top_10_waste_volume_toners.png)
 
 **2. Data Analysis**
 
@@ -156,27 +156,27 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
     
 - 54 departments spend a total of 1025780.04 dollars on buying K-cups. To elaborate, SCHOOL OF MEDICINE (BUSM) spent the most on the K-cups, with 94712.55 dollars. SUMMER TERM (SUM) spent the least, with 54.39 dollars.
 
-![cost_on_k-cup_on_different_department](./image/cost_on_k-cup_on_different_department_v2.png)
+![cost_on_k-cup_on_different_department](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/cost_on_k-cup_on_different_department_v2.png)
 
 - Here are the distributions of total spend from different colleges for K-cups:
 
-![cost_on_k-cup_on_different_department_distribution](./image/cost_on_k-cup_on_different_department_distribution.png)
+![cost_on_k-cup_on_different_department_distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/cost_on_k-cup_on_different_department_distribution.png)
     
 - 7 departments spent a total of 10788.69 dollars on the Bagged Coffee. COLLEGE OF ARTS AND SCIS (CAS) spent the most with 9792.77 dollars. SUMMER TERM (SUM), SCHOOL OF LAW (LAW), SCHOOL OF PUBLIC HEALTH (SPH), ACADEMIC INSTITUTES & CENTERS, and SCHOOL OF MEDICINE(BUSM) spent the least with 96.5 dollars. The total cost for those five colleges are the same since all of them bought only one product “Our Blend Fair Trade Coffee” for 96.5 dollars/bag.
     
-![cost_on_bagged_coffee_on_different_department](./image/cost_on_bagged_coffee_on_different_department_v2.png)
+![cost_on_bagged_coffee_on_different_department](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/cost_on_bagged_coffee_on_different_department_v2.png)
 
 - Here are the distributions of total spend from different colleges for bagged coffee:
 
-![cost_on_bagged_coffee_on_different_department_distribution](./image/cost_on_bagged_coffee_on_different_department_distribution.png)
+![cost_on_bagged_coffee_on_different_department_distribution](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/cost_on_bagged_coffee_on_different_department_distribution.png)
 
 **b. Number of requests on Toner and Coffee yearly for different departments**
 
 - We’ve computed the top 10 departments that requested Toner and Coffee most in the last 5 years respectively.
 
-![](../Deliverable%203/image/department_request_toner_year.png)
+![department_request_toner_year](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/department_request_toner_year.png)
 
-![](../Deliverable%203/image/department_request_coffee_year.png)
+![department_request_coffee_year](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/department_request_coffee_year.png)
 
 - Due to Covid-19, the demand dramatically decreases in the year 2020. However, the big picture turns out that colleges GSDM, BUSM, CAS, and GENERAL ED SUPPORT & ACADEMIC INITIATIVS have the most demands for both toner and coffee. BU could pay attention to these four colleges, and appropriately higher the price of the coffee and toner or remove several supply machines in the buildings.
 
@@ -188,11 +188,11 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 - For coffee, using the most commonly used coffee as the representation of the rest nine coffee products, which product code is GMT6520, Breakfast Blend Coffee K-Cup Pods, is ordered every 0.7 days on average. And the data is mainly concentrated between ordering multiple times a day to ordering once every three days. There are only a few cases where the interval between two orders exceeds five days. These large intervals mainly occur during holidays when the office was closed by tracing back to the order date. 2020 is the year in which large intervals frequently occur, with cases where the interval between two purchases is as long as 20 days because of the remote working/teaching pattern affected by the epidemic.
 
-![](../Deliverable%203/image/most-commonly-used-coffee-ordering-interval.png)
+![most-commonly-used-coffee-ordering-interval](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/most-commonly-used-coffee-ordering-interval.png)
 
 - When break it down to 5 colleges for ordering the same coffee product GMT6520, we have:
 
-![](../Deliverable%203/image/top-10-coffee-by-college.png)
+![top-10-coffee-by-college](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/top-10-coffee-by-college.png)
 
 - We can see that the school of dental medicine has the smallest order interval with an average of 6 days, and CAS has the most of its order interval stay above other four department with average of 25 days.
 
@@ -200,11 +200,11 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 - For toner, using the most commonly used toner to represent the rest nine toner products, which product code is HEWCE505A, Black Original LaserJet Toner Cartridge, is ordered every 5.1 days on average. The data is mainly concentrated between ordering multiple times a day to ordering once every eight days. There are many cases where the interval between two orders exceeds eight days. Compared with the coffee category, the toner interval is more scattered. We found that toner demand is different from daily habits but is more goal-driven, for example, an event or large meeting. Therefore, it is prone to fluctuate demand changes with irregular rhythms. 2020 is the year in which large intervals frequently occur, with cases where the interval between two purchases is as long as 26 days because of the remote working/teaching pattern affected by the epidemic.
 
-![](../Deliverable%203/image/most-commonly-used-toner-ordering-interval.png)
+![most-commonly-used-toner-ordering-interval](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/most-commonly-used-toner-ordering-interval.png)
 
 - After we break the graph down to the top 5 consuming departments:
 
-![](../Deliverable%203/image/top-10-toner-by-college.png)
+![top-10-toner-by-college](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/top-10-toner-by-college.png)
 
 - We can see that the school of dental medicine has the smallest order interval, with an average of 23 days. 
 
@@ -212,11 +212,11 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 - For paper, using the most frequent requests from the office, which is FIREWORX Colored Paper. It's ordered every 1.12 days on average. The data is mainly concentrated between ordering multiple times a day to ordering once every nine days. A large frequency interval occurs with 194 days from 2018-12-20 to 2019-07-02. It may happens due to some double ordering before and only to find that the demand is saturated later.
 
-![](../Deliverable%203/image/most-commonly-used-paper-ordering-interval.png)
+![most-commonly-used-paper-ordering-interval](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Deliverable%203/image/most-commonly-used-paper-ordering-interval.png)
 
 - When it break downs to top 5 consuming departments: 
 
-![](./image/top-5-paper-by-college.png)
+![top-5-paper-by-college](https://github.com/BU-Spark/CS506Spring2021Repository/blob/master/SustainablePurchasing/Final%20Deliverable/image/top-5-paper-by-college.png)
 
 - They have pretty similar ordering patterns and the school of medicine has the smallest order interval with average of 1.5 days.
 
